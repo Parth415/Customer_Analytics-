@@ -1,5 +1,5 @@
 # Customer_Analytics-
-A Systematic to deep-dive on B2B customers to know if they are profitable
+A Systematic way to deep-dive on B2B customers to know if they are profitable
 
 Brief Points : -
 1. The way I have desgined the script and deep dived is by following a methodoly 
